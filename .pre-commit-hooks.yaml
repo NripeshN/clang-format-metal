@@ -1,5 +1,5 @@
-- id: clang-format
-  name: clang-format
+- id: clang-format-metal
+  name: clang-format-metal
   entry: clang-format -i
   language: system
   files: '\.(cpp|h|hpp|metal)$'
